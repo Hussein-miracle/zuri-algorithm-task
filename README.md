@@ -1,2 +1,2 @@
 # zuri-algorithm-task
-my solutions to zuri js task
+the solutions to zuri js task
